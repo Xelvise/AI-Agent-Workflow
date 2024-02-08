@@ -1,0 +1,5 @@
+langchain_community
+requests
+crewai
+duckduckgo-search
+bs4
